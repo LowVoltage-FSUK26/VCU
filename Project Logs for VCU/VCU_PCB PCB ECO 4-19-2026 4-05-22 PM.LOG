@@ -1,0 +1,23 @@
+Added Component: Designator=D14(DO-214AC)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34A/HY+Electronic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "hy electronic corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34A/HY+Electronic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D14-A
+Added Pin To Net: NetName=BL Pin=D14-C
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF1 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF2 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF3 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component D10 BLUE
+Added Member To Class: ClassName=VCU_Schematic Member=Component D11 SS34-A
+Added Member To Class: ClassName=VCU_Schematic Member=Component D14 SS34-A
+Added Member To Class: ClassName=VCU_Schematic Member=Component OC4 TLP785(GB-TP6,F)
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q2 IRF4905STRRPBF
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R

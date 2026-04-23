@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=OC3_1 Pin=D10-A
+Removed Pin From Net: NetName=OC3_1 Pin=OC4-1
+Removed Pin From Net: NetName=OC3_1 Pin=R?-1
+Removed Pin From Net: NetName=OC3_1 Pin=R?-2
+Added Pin To Net: NetName=OC4_1 Pin=D10-A
+Added Pin To Net: NetName=OC4_1 Pin=OC4-1
+Added Pin To Net: NetName=OC4_1 Pin=R?-1
+Added Pin To Net: NetName=OC4_1 Pin=R?-2
+Added Net: Name=OC4_1
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

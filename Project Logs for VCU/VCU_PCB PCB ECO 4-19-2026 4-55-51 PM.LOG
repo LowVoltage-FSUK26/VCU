@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=BL Pin=D14-C
+Removed Pin From Net: NetName=VCC5V Pin=J10-20
+Removed Pin From Net: NetName=BL Pin=Q?-2
+Added Component: Designator=GPIO(SAMTEC_TSW-104-06-L-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-06-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GPIO?(SAMTEC_TSW-104-06-L-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-06-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=UART(SAMTEC_TSW-104-06-L-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-06-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ST_ADC_PA5 Pin=GPIO-01
+Added Pin To Net: NetName=ST_PWM3 Pin=GPIO-02
+Added Pin To Net: NetName=ST_PWM4 Pin=GPIO-03
+Added Pin To Net: NetName=GND Pin=GPIO-04
+Added Pin To Net: NetName=ST_UART_TXD Pin=UART-01
+Added Pin To Net: NetName=ST_UART_RXD Pin=UART-02
+Added Pin To Net: NetName=GND Pin=UART-03
+Added Pin To Net: NetName=VCC3V3 Pin=UART-04
+Added Pin To Net: NetName=PUMP_RELAY Pin=D14-C
+Added Pin To Net: NetName=PUMP_RELAY Pin=J10-20
+Added Pin To Net: NetName=PUMP_RELAY Pin=Q?-2
+Added Net: Name=PUMP_RELAY
+Added Pin To Net: NetName=ST_PA8 Pin=U3-29
+Added Net: Name=ST_PA8
+Added Pin To Net: NetName=ST_PA11 Pin=U3-32
+Added Net: Name=ST_PA11
+Added Pin To Net: NetName=ST_PA12 Pin=U3-33
+Added Net: Name=ST_PA12
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF1 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF2 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component BUF3 TLV9062IDR
+Added Member To Class: ClassName=VCU_Schematic Member=Component D10 BLUE
+Added Member To Class: ClassName=VCU_Schematic Member=Component D11 SS34-A
+Added Member To Class: ClassName=VCU_Schematic Member=Component GPIO TSW-104-06-L-S
+Added Member To Class: ClassName=VCU_Schematic Member=Component GPIO? TSW-104-06-L-S
+Added Member To Class: ClassName=VCU_Schematic Member=Component OC4 TLP785(GB-TP6,F)
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R
+Added Member To Class: ClassName=VCU_Schematic Member=Component UART TSW-104-06-L-S

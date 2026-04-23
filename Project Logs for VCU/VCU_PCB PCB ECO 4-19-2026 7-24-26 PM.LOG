@@ -1,0 +1,28 @@
+Change Component Comment : Designator=R10 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R11 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R12 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R13 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R28 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R23 Old Comment=240 New Comment=220R
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Component: Designator=GPIO?(SAMTEC_TSW-104-06-L-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-06-L-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ST_PA8 Pin=GPIO?-01
+Added Pin To Net: NetName=ST_PA11 Pin=GPIO?-02
+Added Pin To Net: NetName=ST_PA12 Pin=GPIO?-03
+Added Pin To Net: NetName=GND Pin=GPIO?-04
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R

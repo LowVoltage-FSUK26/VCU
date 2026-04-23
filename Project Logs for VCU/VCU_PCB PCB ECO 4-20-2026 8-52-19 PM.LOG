@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=ST_ADC_PA5 Pin=GPIO-01
+Removed Pin From Net: NetName=ST_PUMP_PWM Pin=U3-17
+Removed Pin From Net: NetName=ST_SCL Pin=U3-42
+Removed Pin From Net: NetName=ST_SDA Pin=U3-43
+Removed Pin From Net: NetName=ST_CAN_RXD Pin=U3-45
+Removed Pin From Net: NetName=ST_CAN_TXD Pin=U3-46
+Change Component Comment : Designator=R23 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=R24 Old Comment=220R New Comment=200R
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Component: Designator=C60(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q9(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R61(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=AMP_FLZ Pin=C60-2
+Added Pin To Net: NetName=ST_ADC_PA5 Pin=GPIO?-02
+Added Pin To Net: NetName=VCC3V3 Pin=GPIO?-03
+Added Pin To Net: NetName=GND Pin=Q9-2
+Added Pin To Net: NetName=AMP_FLZ Pin=Q9-3
+Added Pin To Net: NetName=GND Pin=R60-1
+Added Pin To Net: NetName=ST_CAN_RXD Pin=U3-32
+Added Pin To Net: NetName=ST_CAN_TXD Pin=U3-33
+Added Pin To Net: NetName=ST_PUMP_PWM Pin=U3-42
+Added Pin To Net: NetName=ST_SCL Pin=U3-45
+Added Pin To Net: NetName=ST_SDA Pin=U3-46
+Change Net Name : Old Net Name=AMP_FLZ New Net Name=NetC60_2
+Change Net Name : Old Net Name=ST_PA7 New Net Name=ST_PB14
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R60-2
+Added Pin To Net: NetName=NetQ9_1 Pin=R61-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=ST_AMP_SDZ Pin=R61-1
+Added Pin To Net: NetName=ST_AMP_SDZ Pin=U3-17
+Added Net: Name=ST_AMP_SDZ
+Added Pin To Net: NetName=ST_PWM2 Pin=GPIO-01
+Added Pin To Net: NetName=ST_PWM2 Pin=U3-43
+Added Net: Name=ST_PWM2
+Added Member To Class: ClassName=VCU_Schematic Member=Component C60 1uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component GPIO? TSW-104-06-L-S
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q9 AO3400A
+Added Member To Class: ClassName=VCU_Schematic Member=Component R60 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R61 1K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R

@@ -1,0 +1,310 @@
+Removed Pin From Net: NetName=ST_APPS1 Pin=BUF1-1
+Removed Pin From Net: NetName=ST_APPS1 Pin=BUF1-2
+Removed Pin From Net: NetName=NetBUF1_3 Pin=BUF1-3
+Removed Pin From Net: NetName=GND Pin=BUF1-4
+Removed Pin From Net: NetName=APPS1 Pin=BUF1-5
+Removed Pin From Net: NetName=DTI_APPS1 Pin=BUF1-6
+Removed Pin From Net: NetName=DTI_APPS1 Pin=BUF1-7
+Removed Pin From Net: NetName=VCC12V Pin=BUF1-8
+Removed Pin From Net: NetName=ST_APPS2 Pin=BUF2-1
+Removed Pin From Net: NetName=ST_APPS2 Pin=BUF2-2
+Removed Pin From Net: NetName=NetBUF2_3 Pin=BUF2-3
+Removed Pin From Net: NetName=GND Pin=BUF2-4
+Removed Pin From Net: NetName=APPS2 Pin=BUF2-5
+Removed Pin From Net: NetName=DTI_APPS2 Pin=BUF2-6
+Removed Pin From Net: NetName=DTI_APPS2 Pin=BUF2-7
+Removed Pin From Net: NetName=VCC12V Pin=BUF2-8
+Removed Pin From Net: NetName=ST_BPS Pin=BUF3-1
+Removed Pin From Net: NetName=ST_BPS Pin=BUF3-2
+Removed Pin From Net: NetName=NetBUF3_3 Pin=BUF3-3
+Removed Pin From Net: NetName=GND Pin=BUF3-4
+Removed Pin From Net: NetName=NetBUF3_5 Pin=BUF3-5
+Removed Pin From Net: NetName=DTI_BPS Pin=BUF3-6
+Removed Pin From Net: NetName=DTI_BPS Pin=BUF3-7
+Removed Pin From Net: NetName=VCC12V Pin=BUF3-8
+Removed Pin From Net: NetName=VCC5VB Pin=C4-2
+Removed Pin From Net: NetName=CFM Pin=OC1-3
+Removed Pin From Net: NetName=CFB Pin=OC2-3
+Removed Pin From Net: NetName=BL Pin=OC3-3
+Removed Pin From Net: NetName=GND Pin=OC4-1
+Removed Pin From Net: NetName=Shut down INP Pin=OC4-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=Shut down INP Pin=R23-1
+Removed Pin From Net: NetName=ST_PUMP Pin=R28-1
+Removed Pin From Net: NetName=VCC5V Pin=R29-2
+Removed Pin From Net: NetName=GND Pin=R46-2
+Removed Pin From Net: NetName=VCC12V Pin=U1-4
+Removed Pin From Net: NetName=ST_PA2 Pin=U3-12
+Removed Pin From Net: NetName=ST_PA3 Pin=U3-13
+Removed Pin From Net: NetName=ST_PA4 Pin=U3-14
+Removed Pin From Net: NetName=ST_IMD_OKHS Pin=U3-15
+Removed Pin From Net: NetName=ST_CFB Pin=U3-21
+Removed Pin From Net: NetName=ST_CFM Pin=U3-22
+Removed Pin From Net: NetName=ST_BL Pin=U3-25
+Removed Pin From Net: NetName=DTI_RTD Pin=U3-28
+Removed Pin From Net: NetName=ST_SDC_SEN Pin=U3-30
+Removed Pin From Net: NetName=ST_CAN_TXD Pin=U3-32
+Removed Pin From Net: NetName=ST_CAN_RXD Pin=U3-33
+Removed Pin From Net: NetName=ST_PUMP Pin=U3-42
+Removed Pin From Net: NetName=ST_SCL Pin=U3-45
+Removed Pin From Net: NetName=ST_SDA Pin=U3-46
+Removed Pin From Net: NetName=VR! Pin=VR1-1
+Removed Member From Class: ClassName=VCU_Schematic Member=C4
+Removed Member From Class: ClassName=VCU_Schematic Member=D6
+Removed Member From Class: ClassName=VCU_Schematic Member=R9
+Removed Member From Class: ClassName=VCU_Schematic Member=VR1
+Change Component Comment : Designator=R21 Old Comment=2.2k New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=2K New Comment=15K
+Change Component Comment : Designator=L1 Old Comment=4.7uH New Comment=10uH
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=240
+Change Component Comment : Designator=R3 Old Comment=50K New Comment=110K
+Change Component Comment : Designator=R22 Old Comment=220R New Comment=200R
+Change Component Comment : Designator=C5 Old Comment=470uF 35V New Comment=270uF 35V
+Change Component Comment : Designator=OC1 Old Comment=PC817 New Comment=TLP785(GB-TP6,F)
+Change Component Comment : Designator=OC2 Old Comment=PC817 New Comment=TLP785(GB-TP6,F)
+Change Component Comment : Designator=OC3 Old Comment=PC817 New Comment=TLP785(GB-TP6,F)
+Change Component Comment : Designator=OC4 Old Comment=PC817 New Comment=TLP785(GB-TP6,F)
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=OC4 NewDesignator=OC5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=Q2 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Component: Designator=BUF1(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV9062IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BUF2(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV9062IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BUF3(SOIC127P599X175-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TLV9062IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TLV9062IDR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C??(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED_0805_BLUE)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found DO-214AC
+Added Component: Designator=OC4(SOIC254P960X420-4N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PC817X1NIP1B/Sharp+Microelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Sharp Microelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PC817X1NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PC817X1NIP1B/Sharp+Microelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "UMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/UMW/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ST_APPS1 Pin=BUF1-1
+Added Pin To Net: NetName=ST_APPS1 Pin=BUF1-2
+Added Pin To Net: NetName=NetBUF1_3 Pin=BUF1-3
+Added Pin To Net: NetName=GND Pin=BUF1-4
+Added Pin To Net: NetName=APPS1 Pin=BUF1-5
+Added Pin To Net: NetName=DTI_APPS1 Pin=BUF1-6
+Added Pin To Net: NetName=DTI_APPS1 Pin=BUF1-7
+Added Pin To Net: NetName=VCC12V Pin=BUF1-8
+Added Pin To Net: NetName=ST_APPS2 Pin=BUF2-1
+Added Pin To Net: NetName=ST_APPS2 Pin=BUF2-2
+Added Pin To Net: NetName=NetBUF2_3 Pin=BUF2-3
+Added Pin To Net: NetName=GND Pin=BUF2-4
+Added Pin To Net: NetName=APPS2 Pin=BUF2-5
+Added Pin To Net: NetName=DTI_APPS2 Pin=BUF2-6
+Added Pin To Net: NetName=DTI_APPS2 Pin=BUF2-7
+Added Pin To Net: NetName=VCC12V Pin=BUF2-8
+Added Pin To Net: NetName=ST_BPS Pin=BUF3-1
+Added Pin To Net: NetName=ST_BPS Pin=BUF3-2
+Added Pin To Net: NetName=NetBUF3_3 Pin=BUF3-3
+Added Pin To Net: NetName=GND Pin=BUF3-4
+Added Pin To Net: NetName=NetBUF3_5 Pin=BUF3-5
+Added Pin To Net: NetName=DTI_BPS Pin=BUF3-6
+Added Pin To Net: NetName=DTI_BPS Pin=BUF3-7
+Added Pin To Net: NetName=VCC12V Pin=BUF3-8
+Added Pin To Net: NetName=VCC12V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC5VB Pin=C??-1
+Added Pin To Net: NetName=GND Pin=C??-2
+Added Pin To Net: NetName=OC3_1 Pin=D10-A
+Added Pin To Net: NetName=GND Pin=D10-K
+Add Pin To Net: Unknown Pin: Pin D14-A
+Add Pin To Net: Unknown Pin: Pin D14-C
+Added Pin To Net: NetName=OC3_1 Pin=OC4-1
+Added Pin To Net: NetName=GND Pin=OC4-2
+Added Pin To Net: NetName=VCC12V Pin=OC4-4
+Added Pin To Net: NetName=Shut down INP Pin=OC5-1
+Added Pin To Net: NetName=CFM Pin=Q3-2
+Added Pin To Net: NetName=VCC12V Pin=Q3-3
+Added Pin To Net: NetName=CFB Pin=Q4-2
+Added Pin To Net: NetName=VCC12V Pin=Q4-3
+Added Pin To Net: NetName=BL Pin=Q5-2
+Added Pin To Net: NetName=VCC12V Pin=Q5-3
+Added Pin To Net: NetName=BL Pin=Q?-2
+Added Pin To Net: NetName=VCC12V Pin=Q?-3
+Added Pin To Net: NetName=VR! Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Added Pin To Net: NetName=OC3_1 Pin=R?-1
+Added Pin To Net: NetName=ST_PUMP Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=VCC12V Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=OC3_1 Pin=R?-2
+Added Pin To Net: NetName=VCC12V Pin=R?-2
+Added Pin To Net: NetName=VR! Pin=U1-3
+Added Pin To Net: NetName=ST_PA2 Pin=U3-11
+Added Pin To Net: NetName=ST_PA3 Pin=U3-12
+Added Pin To Net: NetName=ST_PA4 Pin=U3-13
+Added Pin To Net: NetName=ST_IMD_OKHS Pin=U3-14
+Added Pin To Net: NetName=ST_CFB Pin=U3-20
+Added Pin To Net: NetName=ST_CFM Pin=U3-21
+Added Pin To Net: NetName=ST_BL Pin=U3-22
+Added Pin To Net: NetName=DTI_RTD Pin=U3-25
+Added Pin To Net: NetName=ST_SDC_SEN Pin=U3-26
+Added Pin To Net: NetName=ST_PUMP Pin=U3-28
+Added Pin To Net: NetName=ST_SCL Pin=U3-42
+Added Pin To Net: NetName=ST_SDA Pin=U3-43
+Added Pin To Net: NetName=ST_CAN_RXD Pin=U3-45
+Added Pin To Net: NetName=ST_CAN_TXD Pin=U3-46
+Change Net Name : Old Net Name=NetOC4_3 New Net Name=NetOC5_3
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Added Pin To Net: NetName=NetOC1_3 Pin=OC1-3
+Added Pin To Net: NetName=NetOC1_3 Pin=Q3-1
+Added Pin To Net: NetName=NetOC1_3 Pin=R?-2
+Added Net: Name=NetOC1_3
+Added Pin To Net: NetName=NetOC2_3 Pin=OC2-3
+Added Pin To Net: NetName=NetOC2_3 Pin=Q4-1
+Added Pin To Net: NetName=NetOC2_3 Pin=R?-2
+Added Net: Name=NetOC2_3
+Added Pin To Net: NetName=NetOC3_3 Pin=OC3-3
+Added Pin To Net: NetName=NetOC3_3 Pin=Q5-1
+Added Pin To Net: NetName=NetOC3_3 Pin=R?-2
+Added Net: Name=NetOC3_3
+Added Pin To Net: NetName=NetOC4_3 Pin=OC4-3
+Added Pin To Net: NetName=NetOC4_3 Pin=Q?-1
+Added Pin To Net: NetName=NetOC4_3 Pin=R?-2
+Added Net: Name=NetOC4_3
+Added Pin To Net: NetName=NetOC5_2 Pin=OC5-2
+Added Pin To Net: NetName=NetOC5_2 Pin=R23-1
+Added Net: Name=NetOC5_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U1-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=ST_ADC_PA5 Pin=U3-15
+Added Net: Name=ST_ADC_PA5
+Added Pin To Net: NetName=ST_PUMP_PWM Pin=R28-1
+Added Pin To Net: NetName=ST_PUMP_PWM Pin=U3-17
+Added Net: Name=ST_PUMP_PWM
+Added Pin To Net: NetName=ST_PWM3 Pin=U3-18
+Added Net: Name=ST_PWM3
+Added Pin To Net: NetName=ST_PWM4 Pin=U3-19
+Added Net: Name=ST_PWM4
+Added Pin To Net: NetName=ST_UART_RXD Pin=U3-31
+Added Net: Name=ST_UART_RXD
+Added Pin To Net: NetName=ST_UART_TXD Pin=U3-30
+Added Net: Name=ST_UART_TXD
+Added Member To Class: ClassName=VCU_Schematic Member=Component C? 22uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C?? 22uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component D13 SS34-A
+Add Class Member: Failed to add class member : Component D14 SS34-A
+Added Member To Class: ClassName=VCU_Schematic Member=Component OC5 TLP785(GB-TP6,F)
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q3 AO3400A
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q4 AO3400A
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q5 AO3400A
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q? AO3400A
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R
