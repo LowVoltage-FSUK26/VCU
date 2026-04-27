@@ -1,0 +1,40 @@
+Change Component Designator: OldDesignator=R552 NewDesignator=R52
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Member To Class: ClassName=VCU Member=Component C3 22uF
+Added Member To Class: ClassName=VCU Member=Component C7 22uF
+Added Member To Class: ClassName=VCU Member=Component C8 2.2uF
+Added Member To Class: ClassName=VCU Member=Component C10 100nF
+Added Member To Class: ClassName=VCU Member=Component C12 100nF
+Added Member To Class: ClassName=VCU Member=Component C13 100nF
+Added Member To Class: ClassName=VCU Member=Component Q4 AO3400A
+Added Member To Class: ClassName=VCU Member=Component Q5 AO3407A
+Added Member To Class: ClassName=VCU Member=Component Q6 AO3407A
+Added Member To Class: ClassName=VCU Member=Component Q7 AO3407A
+Added Member To Class: ClassName=VCU Member=Component R2 10K
+Added Member To Class: ClassName=VCU Member=Component R4 110K
+Added Member To Class: ClassName=VCU Member=Component R6 1.5K
+Added Member To Class: ClassName=VCU Member=Component R8 10K
+Added Member To Class: ClassName=VCU Member=Component R17 10K
+Added Member To Class: ClassName=VCU Member=Component R18 20K
+Added Member To Class: ClassName=VCU Member=Component R19 200R
+Added Member To Class: ClassName=VCU Member=Component R20 10K
+Added Member To Class: ClassName=VCU Member=Component R23 200R
+Added Member To Class: ClassName=VCU Member=Component R24 10k
+Added Member To Class: ClassName=VCU Member=Component R27 20K
+Added Member To Class: ClassName=VCU Member=Component R28 10K
+Added Member To Class: ClassName=VCU Member=Component R29 20K
+Added Member To Class: ClassName=VCU Member=Component R31 7K
+Added Member To Class: ClassName=VCU Member=Component R33 14K
+Added Member To Class: ClassName=VCU Member=Component R34 20K
+Added Member To Class: ClassName=VCU Member=Component R35 10K
+Added Member To Class: ClassName=VCU Member=Component R36 100K
+Added Member To Class: ClassName=VCU Member=Component R37 1K
+Added Member To Class: ClassName=VCU Member=Component R38 10K
+Added Member To Class: ClassName=VCU Member=Component R39 100K
+Added Member To Class: ClassName=VCU Member=Component R40 75K
+Added Member To Class: ClassName=VCU Member=Component R42 39K
+Added Member To Class: ClassName=VCU Member=Component R43 39K
+Added Member To Class: ClassName=VCU Member=Component R46 10K

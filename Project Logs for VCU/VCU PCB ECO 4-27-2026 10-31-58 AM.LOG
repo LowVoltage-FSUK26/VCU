@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ST_APPS1 Pin=R11-2
+Removed Pin From Net: NetName=ST_BPS Pin=R13-2
+Added Pin To Net: NetName=ST_BPS Pin=R11-2
+Added Pin To Net: NetName=ST_APPS1 Pin=R13-2

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=VCC12V Pin=J10-19
+Removed Pin From Net: NetName=VCC3V3 Pin=PW-01
+Removed Pin From Net: NetName=VCC5V Pin=PWM-01
+Removed Pin From Net: NetName=VCC12V Pin=PWM-03
+Removed Pin From Net: NetName=PUPM_PWM Pin=Q2-2
+Removed Pin From Net: NetName=PUPM_PWM Pin=Q6-2
+Removed Member From Class: ClassName=VCU Member=PW
+Removed Member From Class: ClassName=VCU Member=PWM
+Removed Member From Class: ClassName=VCU Member=Q?
+Change Component Comment : Designator=R27 Old Comment=10K New Comment=2K
+Change Component Comment : Designator=R47 Old Comment=10K New Comment=2K
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Component: Designator=Q3(SOT95P280X125-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3407A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha &"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3407A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3407A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3 Pin=J10-19
+Added Pin To Net: NetName=VCC12V Pin=Q3-2
+Added Pin To Net: NetName=PUPM_PWM Pin=Q3-3
+Added Pin To Net: NetName=VCC12V Pin=R47-2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R28-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R47-1
+Added Net: Name=NetQ3_1
+Added Member To Class: ClassName=VCU Member=Component Q6 AO3400A
+Added Member To Class: ClassName=VCU Member=Component Q7 AO3400A
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 10K
+Added Member To Class: ClassName=VCU Member=Component R? 220R
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7

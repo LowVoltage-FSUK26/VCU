@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=SP-03
+Removed Pin From Net: NetName=ST_AMP_SIG Pin=U3-16
+Removed Pin From Net: NetName=ST_AMP_SDZ Pin=U3-17
+Added Pin To Net: NetName=ST_AMP_SDZ Pin=SP-03
+Added Pin To Net: NetName=ST_AMP_SDZ Pin=U3-16
+Added Pin To Net: NetName=ST_AMP_SIG Pin=U3-17

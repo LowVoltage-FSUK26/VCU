@@ -1,0 +1,6 @@
+Remove Pin=R44-1 From Net=ST_CFM
+Remove Pin=R47-1 From Net=ST_CFB
+Remove Pin=R50-1 From Net=ST_BL
+Add Pin To Net: Pin=R44-1 Old Net=ST_CFM New Net=ST_BL
+Add Pin To Net: Pin=R47-1 Old Net=ST_CFB New Net=ST_CFM
+Add Pin To Net: Pin=R50-1 Old Net=ST_BL New Net=ST_CFB
