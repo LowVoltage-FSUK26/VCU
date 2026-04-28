@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VCC12V Pin=OC1-4
+Removed Pin From Net: NetName=VCC12V Pin=OC2-4
+Removed Pin From Net: NetName=VCC12V Pin=OC3-4
+Removed Pin From Net: NetName=VCC12V Pin=OC4-4
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Pin To Net: NetName=GND Pin=OC1-3
+Added Pin To Net: NetName=GND Pin=OC2-3
+Added Pin To Net: NetName=GND Pin=OC3-3
+Added Pin To Net: NetName=GND Pin=OC4-3
+Added Pin To Net: NetName=NetOC1_4 Pin=OC1-4
+Added Pin To Net: NetName=NetOC1_4 Pin=Q5-1
+Added Pin To Net: NetName=NetOC1_4 Pin=R46-2
+Added Net: Name=NetOC1_4
+Added Pin To Net: NetName=NetOC2_4 Pin=OC2-4
+Added Pin To Net: NetName=NetOC2_4 Pin=Q6-1
+Added Pin To Net: NetName=NetOC2_4 Pin=R49-2
+Added Net: Name=NetOC2_4
+Added Pin To Net: NetName=NetOC3_4 Pin=OC3-4
+Added Pin To Net: NetName=NetOC3_4 Pin=Q7-1
+Added Pin To Net: NetName=NetOC3_4 Pin=R52-2
+Added Net: Name=NetOC3_4
+Added Pin To Net: NetName=NetOC4_4 Pin=OC4-4
+Added Pin To Net: NetName=NetOC4_4 Pin=Q8-1
+Added Pin To Net: NetName=NetOC4_4 Pin=R55-2
+Added Net: Name=NetOC4_4
