@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ST_ADC_PA5 Pin=GPIO?-01
+Removed Pin From Net: NetName=ST_PB3 Pin=GPIO?-01
+Removed Pin From Net: NetName=ST_PA0 Pin=GPIO?-02
+Removed Pin From Net: NetName=ST_PB4 Pin=GPIO?-02
+Removed Pin From Net: NetName=ST_PA8 Pin=GPIO?-03
+Removed Pin From Net: NetName=ST_PB5 Pin=GPIO?-03
+Added Pin To Net: NetName=ST_PA8 Pin=GPIO?-01
+Added Pin To Net: NetName=ST_PA0 Pin=GPIO?-02
+Added Pin To Net: NetName=ST_ADC_PA5 Pin=GPIO?-03
+Added Member To Class: ClassName=VCU Member=Component D? BLUE
+Added Member To Class: ClassName=VCU Member=Component GPIO? TSW-104-06-L-S
+Added Member To Class: ClassName=VCU Member=Component R? 200R

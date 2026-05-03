@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ST_PB5 Pin=GPIO?-01
+Added Pin To Net: NetName=ST_PB3 Pin=GPIO?-02
+Added Pin To Net: NetName=ST_PB4 Pin=GPIO?-03
+Added Member To Class: ClassName=VCU Member=Component GPIO? TSW-104-06-L-S

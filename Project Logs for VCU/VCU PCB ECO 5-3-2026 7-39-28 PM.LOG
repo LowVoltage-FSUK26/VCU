@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D??
+Change Component Designator: OldDesignator=R? NewDesignator=R??
+Added Pin To Net: NetName=NetD??_A Pin=D??-A
+Added Pin To Net: NetName=NetD??_A Pin=U3-4
+Added Net: Name=NetD??_A
+Added Pin To Net: NetName=NetD??_K Pin=D??-K
+Added Pin To Net: NetName=NetD??_K Pin=R??-1
+Added Net: Name=NetD??_K
+Added Member To Class: ClassName=VCU Member=Component D?? BLUE
+Added Member To Class: ClassName=VCU Member=Component GPIO? TSW-104-06-L-S
+Added Member To Class: ClassName=VCU Member=Component R?? 200R
