@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ST_PA0 Pin=GPIO-2
+Removed Pin From Net: NetName=ST_PWM3 Pin=GPIO-3
+Added Pin To Net: NetName=ST_PWM3 Pin=GPIO-2
+Added Pin To Net: NetName=ST_PA0 Pin=GPIO-3
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A

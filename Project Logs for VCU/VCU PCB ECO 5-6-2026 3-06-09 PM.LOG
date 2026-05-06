@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DTI_APPS2 Pin=J10-4
+Removed Pin From Net: NetName=DTI_BPS Pin=J10-5
+Removed Pin From Net: NetName=DTI_RTD Pin=J10-6
+Removed Pin From Net: NetName=DTI_APPS1 Pin=J10-7
+Removed Pin From Net: NetName=APPS2 Pin=J10-11
+Removed Pin From Net: NetName=BPS Pin=J10-12
+Removed Pin From Net: NetName=APPS1 Pin=J10-13
+Added Pin To Net: NetName=DTI_APPS1 Pin=J10-4
+Added Pin To Net: NetName=DTI_APPS2 Pin=J10-5
+Added Pin To Net: NetName=DTI_BPS Pin=J10-6
+Added Pin To Net: NetName=DTI_RTD Pin=J10-7
+Added Pin To Net: NetName=APPS1 Pin=J10-11
+Added Pin To Net: NetName=APPS2 Pin=J10-12
+Added Pin To Net: NetName=BPS Pin=J10-13
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A

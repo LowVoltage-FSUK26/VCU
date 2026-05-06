@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=GPIO NewDesignator=UART
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component SP B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component STL B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component UART B4B-XH-A

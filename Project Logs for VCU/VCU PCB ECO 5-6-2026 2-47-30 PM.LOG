@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=CANH New Net Name=CAN_P
+Change Net Name : Old Net Name=CANL New Net Name=CAN_N
+Added Differential Pair: Name=CAN
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A

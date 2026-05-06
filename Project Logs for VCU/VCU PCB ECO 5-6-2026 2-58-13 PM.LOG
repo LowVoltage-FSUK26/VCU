@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DTI_APPS1 Pin=J10-3
+Removed Pin From Net: NetName=CAN_P Pin=J10-7
+Removed Pin From Net: NetName=APPS1 Pin=J10-10
+Removed Pin From Net: NetName=CAN_N Pin=J10-13
+Added Pin To Net: NetName=CAN_P Pin=J10-3
+Added Pin To Net: NetName=DTI_APPS1 Pin=J10-7
+Added Pin To Net: NetName=CAN_N Pin=J10-10
+Added Pin To Net: NetName=APPS1 Pin=J10-13
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
