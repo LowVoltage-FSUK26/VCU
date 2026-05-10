@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=XTAL Pin=Y1-1
+Removed Pin From Net: NetName=ST_OSC_IN Pin=Y1-2
+Change Component Designator: OldDesignator=D? NewDesignator=D16
+Change Component Designator: OldDesignator=D?? NewDesignator=D17
+Change Component Designator: OldDesignator=R? NewDesignator=R56
+Change Component Designator: OldDesignator=R?? NewDesignator=R57
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Added Pin To Net: NetName=ST_OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=XTAL Pin=Y1-2
+Change Net Name : Old Net Name=NetD??_A New Net Name=NetD17_A
+Change Net Name : Old Net Name=NetD??_K New Net Name=NetD17_K
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD16_A
+Change Net Name : Old Net Name=NetD?_K New Net Name=NetD16_K
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
+Added Member To Class: ClassName=VCU Member=Component GPIO B4B-XH-A
