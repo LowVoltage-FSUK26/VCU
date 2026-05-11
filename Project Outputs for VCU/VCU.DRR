@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VCU.PcbDoc   5/11/2026  1:22:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : VCU.TXT
+ASCII RectHoles File : VCU-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             403       PTH        65.79inch (1671.11mm)
+T2      35mil (0.899mm)                                           Round             2         PTH        0.20inch (5.08mm)
+T3      39mil (0.991mm)                                           Round             4         PTH        0.61inch (15.50mm)
+T4      39mil (1.001mm)                                           Round             24        PTH        4.00inch (101.70mm)
+T5      39mil (1.001mm)                                           Rectangle         3         PTH        1.11inch (28.26mm)
+T6      40mil (1.021mm)                                           Round             4         PTH        0.47inch (11.99mm)
+T7      50mil (1.27mm)                                            Round             8         PTH        0.70inch (17.78mm)
+T8      59mil (1.501mm)                                           Round             26        PTH        3.40inch (86.36mm)
+T9      118mil (3mm)                                              Round             4         NPTH       10.73inch (272.54mm)
+T10     126mil (3.2mm)                                            Round             2         NPTH       0.63inch (16.12mm)
+T11     134mil (3.401mm)                                          Round             2         NPTH       1.28inch (32.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              482
+
+Total Processing Time (hh:mm:ss) : 00:00:01

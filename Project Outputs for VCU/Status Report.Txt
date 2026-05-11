@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [VCU.PrjPcb]
+   Generated File[VCU.TXT]
+   Generated File[VCU-RectHoles.TXT]
+   Generated File[VCU.LDP]
+   Generated File[VCU.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:22:25 PM On 5/11/2026
